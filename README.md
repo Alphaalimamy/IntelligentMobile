@@ -1,9 +1,10 @@
 # IntelligentMobile
 ## Hello Constraint Homework- Solution Code
 
-The Hello Contraint app consists of three buttons  and one TextView. When the user taps the first button, it displays a short message (a Toast) on the screen.<br>
-Tapping the second button increases a "click" counter displayed in the TextView, which starts at zero.
-
+The Hello Constraint Homework app has three buttons; the TOAST button, ZERO button, 
+COUNT button, and a textview. If the toast button is clicked, it displays the hello toast message. 
+The COUNT button increases the count whenever it is clicked. The ZERO resets to zero when the count is above zero. 
+And it changes its color to pink when the count is above one.
 ## Pre-requisites
 
 To execute this app you should be familiar with creating and running apps in Android Studio.
@@ -17,7 +18,7 @@ Download and open the app in Android Studio.
 
 ### Codelab 1.2 Part A: Your first interactive UI
 
-#### HelloToast Classwork Screenshots
+#### Hello Constraint Homework Screenshots
 
 ![](pic1.JPG)
 
