@@ -32,13 +32,12 @@ Java
 ### Codelab 2.1: Activities and intents
 <li>  [Branch: TwoActivities Classwork](https://github.com/Alphaalimamy/IntelligentMobile/tree/TwoActivities_Classwork)
 
-<li>  [Branch: TwoActivities Homework](https://github.com/brato2120196026/IntelligentMobile/tree/TwoActivities_Homework)
+<li>  [Branch: TwoActivities Homework]
 
 ## Week 5. Implicit Intents
 ### Codelab 2.3: Implicit Intents
 
-<li> [Branch: ImplicitIntents Classwork](https://github.com/brato2120196026/IntelligentMobile/tree/Implicit_Intent_Classwork)
+<li> [Branch: ImplicitIntents Classwork]
 
-<li> [Branch: Implicit_IntentsReciver Classwork](https://github.com/brato2120196026/IntelligentMobile/tree/Implicit_IntentsReciver_Classwork)
-
-<li> [Branch: ImplicitIntents Homework](https://github.com/brato2120196026/IntelligentMobile/tree/ImplicitIntents_Homework)
+<li> [Branch: Implicit_IntentsReciver Classwork]
+<li> [Branch: ImplicitIntents Homework]
