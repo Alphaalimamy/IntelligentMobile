@@ -16,8 +16,6 @@ Download and open the app in Android Studio.
 
 ## Result
 
-### Codelab 1.2 Part A: Your first interactive UI
-
 #### Hello Constraint Homework Screenshots
 
 ![](pic1.JPG)
