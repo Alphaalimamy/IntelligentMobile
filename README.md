@@ -2,7 +2,7 @@
 ## Hello World Homework- Solution Code
 
 The Hello world homework app has one textview. The main of the assignment is to introduce beginners to debuging. When the app is debugged,
- it should be able to display Hello World in the Logcat console as shown below.
+ it should be able to display MainActivity in the Logcat console as shown below.
 ## Pre-requisites
 
 To execute this app you should be familiar with creating and running apps in Android Studio.
@@ -16,6 +16,6 @@ Download and open the app in Android Studio.
 
 #### Hello Constraint Homework Screenshots
 
-![](pic.JPG)
-
 ![](pic1.JPG)
+
+![](pic.JPG)
