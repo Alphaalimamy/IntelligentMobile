@@ -1,7 +1,7 @@
 # IntelligentMobile
 ## Hello Constraint Homework- Solution Code
 
-The Hello Toast app is a simple app that consists of two button elements and one TextView. When the user taps the first button, it displays a short message (a Toast) on the screen.<br>
+The Hello Contraint app consists of three buttons  and one TextView. When the user taps the first button, it displays a short message (a Toast) on the screen.<br>
 Tapping the second button increases a "click" counter displayed in the TextView, which starts at zero.
 
 ## Pre-requisites
