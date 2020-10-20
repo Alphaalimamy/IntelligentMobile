@@ -16,6 +16,6 @@ Download and open the app in Android Studio.
 
 #### Hello Constraint Homework Screenshots
 
-![](pic1.JPG)
+![](pic.JPG)
 
-![](pic2.JPG)
+![](pic1.JPG)
