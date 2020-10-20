@@ -1,8 +1,5 @@
-# IntelligentMobile
 # Intelligent Mobile Application
-To create a simple mobile app to convert Census to F
-# Features
-This app can convert Celsius to Fahrenheit
+Food wastage campaigh has become a global fight. In order to contribute to the fight to prevent food wastge, the project aims at creating a mobile app that helps people to share food online to help the disadvantage.
 # Development Environment
 Andriod Studio
 # Programming Language
