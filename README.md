@@ -16,8 +16,9 @@ Download and open the app in Android Studio.
 
 ## Result
 
-#### Hello Constraint Homework Screenshots
+#### Hello World Homework Screenshots
 
-![](pic1.JPG)
+![](pic_1.JPG)
 
 ![](pic2.JPG)
+(pic3.JPG)
