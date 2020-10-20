@@ -30,7 +30,7 @@ Java
 
 ## Week 4. Activities and intents
 ### Codelab 2.1: Activities and intents
-<li>  [Branch: TwoActivities Classwork](https://github.com/brato2120196026/IntelligentMobile/tree/TwoActivity_Classwork)
+<li>  [Branch: TwoActivities Classwork](https://github.com/Alphaalimamy/IntelligentMobile/tree/TwoActivities_Classwork)
 
 <li>  [Branch: TwoActivities Homework](https://github.com/brato2120196026/IntelligentMobile/tree/TwoActivities_Homework)
 
