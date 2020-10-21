@@ -38,3 +38,7 @@ Java
 
 <li> [Branch: Implicit_IntentsReciver Classwork]
 <li> [Branch: ImplicitIntents Homework]
+  
+  
+## Week 6. User Interaction
+### 4.1 Clickable images
