@@ -34,7 +34,7 @@ Java
 ## Week 5. Implicit Intents
 ### Codelab 2.3: Implicit Intents
 
-<li> [Branch: ImplicitIntents Classwork]
+<li> ImplicitIntents Classwork https://github.com/Alphaalimamy/IntelligentMobile/blob/TwoActivities_Classwork/README.md </li>
 
 <li> [Branch: Implicit_IntentsReciver Classwork]
 <li> [Branch: ImplicitIntents Homework]
