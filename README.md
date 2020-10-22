@@ -42,4 +42,7 @@ Java
   
 ## Week 6. User Interaction
 ### 4.1 Clickable images 
+
  <li> Droid Cafe: https://github.com/Alphaalimamy/IntelligentMobile/tree/DroidCafe_Classwork </li>
+ <li> Droid Cafe Exercise:  https://github.com/Alphaalimamy/IntelligentMobile/tree/Exercise_Floating_Button_Action </li>
+
