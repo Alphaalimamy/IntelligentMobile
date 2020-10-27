@@ -46,3 +46,8 @@ Java
  <li> Droid Cafe: https://github.com/Alphaalimamy/IntelligentMobile/tree/DroidCafe_Classwork </li>
  <li> Droid Cafe Exercise:  https://github.com/Alphaalimamy/IntelligentMobile/tree/Exercise_Floating_Button_Action </li>
  <li> Droid Cafe UserInput Exercise:  https://github.com/Alphaalimamy/IntelligentMobile/tree/DroidCafeUserInput </li>
+ 
+ 
+ ## Week 7. User Interaction
+ ###4.4: User navigation
+ <li> 4.4: User navigation https://github.com/Alphaalimamy/IntelligentMobile/tree/4.4UserNavigationk </li>
