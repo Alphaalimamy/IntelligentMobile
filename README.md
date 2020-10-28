@@ -1,5 +1,5 @@
 # IntelligentMobile
 ### TabLayout
-<img src="pic1">
-<img src="pic2">
-<img src="pic3">
+<img src="pic1.JPG">
+<img src="pic2.JPG">
+<img src="pic3.JPG">
