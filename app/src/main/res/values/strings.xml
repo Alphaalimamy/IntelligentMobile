@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tab Experiment</string>
+    <string name="top_stories">TOP STORIES</string>
+    <string name="tech_news">TECH NEWS</string>
+    <string name="cooking">COOKING</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cooking_news">COOKING NEWS</string>
+    <string name="these_are_the_top_stories">These are the top stories</string>
+    <string name="these_are_the_top_news">These are the top news</string>
+    <string name="cooking_stories">Cooking stories</string>
+</resources>
