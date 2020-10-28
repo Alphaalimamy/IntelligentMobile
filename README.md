@@ -51,3 +51,4 @@ Java
  ## Week 7. User Interaction
  ### 4.4: User navigation
  <li> 4.4: User navigation https://github.com/Alphaalimamy/IntelligentMobile/tree/4.4UserNavigation </li>
+ <li>TabLayout: https://github.com/Alphaalimamy/IntelligentMobile/tree/TabLayout</li>
