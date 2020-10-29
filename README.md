@@ -34,6 +34,7 @@ Java
 ## Week 5. Implicit Intents
 ### Codelab 2.3: Implicit Intents
 
+
 <li> ImplicitIntents Classwork https://github.com/Alphaalimamy/IntelligentMobile/blob/TwoActivities_Classwork/README.md </li>
 
 <li> [Branch: Implicit_IntentsReciver Classwork]
@@ -52,3 +53,5 @@ Java
  ### 4.4: User navigation
  <li> 4.4: User navigation https://github.com/Alphaalimamy/IntelligentMobile/tree/4.4UserNavigation </li>
  <li>TabLayout: https://github.com/Alphaalimamy/IntelligentMobile/tree/TabLayout</li>
+  <li> 4.5: Recyclerview https://github.com/Alphaalimamy/IntelligentMobile/tree/4.5RecyclerView</li>
+ 
