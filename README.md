@@ -1,2 +1,2 @@
 # IntelligentMobile
-<img src="pic1.jpg">
+<img src="pic1.JPG">
