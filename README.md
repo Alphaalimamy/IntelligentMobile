@@ -55,3 +55,6 @@ Java
  <li>TabLayout: https://github.com/Alphaalimamy/IntelligentMobile/tree/TabLayout</li>
   <li> 4.5: Recyclerview https://github.com/Alphaalimamy/IntelligentMobile/tree/4.5RecyclerView</li>
  
+  ## Week 7. Cards and Colors
+ ### 4.4:  Cards and Colors
+ <li> 4.4: Cards and Colors https://github.com/Alphaalimamy/IntelligentMobile/tree/5.2CardsAndColors</li>
