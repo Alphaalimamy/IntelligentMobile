@@ -58,3 +58,5 @@ Java
   ## Week 8. Cards and Colors
  ### 5.2:  Cards and Colors
  <li>Cards and Colors: https://github.com/Alphaalimamy/IntelligentMobile/tree/5.2CardsAndColors</li>
+ <li>Scorekepper: https://github.com/Alphaalimamy/IntelligentMobile/tree/Scorekeeper</li>
+ 
