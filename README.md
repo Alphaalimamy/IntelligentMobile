@@ -14,7 +14,7 @@ Java
 
 ## Week 2. Get started
 ### Codelab 1.1: Android Studio and Hello World.<br>
-<li> Hello World Classwork (https://github.com/Alphaalimamy/IntelligentMobile/tree/HelloWorldClasswork)
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/HelloWorldClasswork">Hello World Classwork</a></li>
 
 <li> Branch: Hello World Homework(https://github.com/Alphaalimamy/IntelligentMobile/tree/Helloworld_Assignment)
 
