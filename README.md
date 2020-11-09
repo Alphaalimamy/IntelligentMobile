@@ -46,13 +46,13 @@ Java
  
  ## Week 7. User Interaction
  ### 4.4: User navigation
- <li> 4.4: User navigation https://github.com/Alphaalimamy/IntelligentMobile/tree/4.4UserNavigation </li>
- <li>TabLayout: https://github.com/Alphaalimamy/IntelligentMobile/tree/TabLayout</li>
-  <li> 4.5: Recyclerview https://github.com/Alphaalimamy/IntelligentMobile/tree/4.5RecyclerView</li>
  
-  ## Week 8. Cards and Colors
+ <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/4.4UserNavigation"> 4.4: User navigation</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/TabLayout"> TabLayout</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/4.5RecyclerView"> 4.5: Recyclerview</a></li>
+
+ ## Week 8. Cards and Colors
  ### 5.2:  Cards and Colors
- <li>Cards and Colors: https://github.com/Alphaalimamy/IntelligentMobile/tree/5.2CardsAndColors</li>
- <li>Scorekepper: https://github.com/Alphaalimamy/IntelligentMobile/tree/Scorekeeper</li>
- 
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/5.2CardsAndColors"> Cards and Colors</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Scorekeeper"> Scorekepper</a></li>
  
