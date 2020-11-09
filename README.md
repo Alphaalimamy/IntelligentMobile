@@ -15,28 +15,24 @@ Java
 ## Week 2. Get started
 ### Codelab 1.1: Android Studio and Hello World.<br>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/HelloWorldClasswork">Hello World Classwork</a></li>
-
-<li> Branch: Hello World Homework(https://github.com/Alphaalimamy/IntelligentMobile/tree/Helloworld_Assignment)
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Helloworld_Assignment">Hello World Homework</a></li>
 
 ## Week 3. Layouts and resources for the UI
 ### Codelab 1.2 Part A: Your first interactive UI
-<li>  HelloToast_Classwork](https://github.com/Alphaalimamy/IntelligentMobile/tree/HelloToast_Classwork)
-  
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/HelloToast_Classwork">HelloToast_Classwork</a></li>
+
 ### Codelab 1.2 Part B: The layout editor
-<li> HelloConstraint_Homework](https://github.com/Alphaalimamy/IntelligentMobile/tree/HelloConstraint_Assignment)
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/HelloConstraint_Assignment">HelloConstraint_Homework</a></li>
 
 ## Week 4. Activities and intents
 ### Codelab 2.1: Activities and intents
-<li>  TwoActivities Classwork](https://github.com/Alphaalimamy/IntelligentMobile/tree/TwoActivities_Classwork)
 
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/TwoActivities_Classwork">TwoActivities Classwork</a></li>
 <li>  TwoActivities Homework
 
 ## Week 5. Implicit Intents
 ### Codelab 2.3: Implicit Intents
-
-
-<li> ImplicitIntents Classwork https://github.com/Alphaalimamy/IntelligentMobile/blob/TwoActivities_Classwork/README.md </li>
-
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/blob/TwoActivities_Classwork/README.md">ImplicitIntents Classwork</a></li>
 <li> Implicit_IntentsReciver Classwork
 <li> ImplicitIntents Homework
   
@@ -44,10 +40,9 @@ Java
 ## Week 6. User Interaction
 ### 4.1 Clickable images 
 
- <li> Droid Cafe: https://github.com/Alphaalimamy/IntelligentMobile/tree/DroidCafe_Classwork </li>
- <li> Droid Cafe Exercise:  https://github.com/Alphaalimamy/IntelligentMobile/tree/Exercise_Floating_Button_Action </li>
- <li> Droid Cafe UserInput Exercise:  https://github.com/Alphaalimamy/IntelligentMobile/tree/DroidCafeUserInput </li>
- 
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/DroidCafe_Classwork">Droid Cafe</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Exercise_Floating_Button_Action">Droid Cafe Exercise</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/DroidCafeUserInput">Droid Cafe UserInput Exercise</a></li>
  
  ## Week 7. User Interaction
  ### 4.4: User navigation
@@ -59,4 +54,5 @@ Java
  ### 5.2:  Cards and Colors
  <li>Cards and Colors: https://github.com/Alphaalimamy/IntelligentMobile/tree/5.2CardsAndColors</li>
  <li>Scorekepper: https://github.com/Alphaalimamy/IntelligentMobile/tree/Scorekeeper</li>
+ 
  
