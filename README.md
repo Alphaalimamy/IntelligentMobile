@@ -25,13 +25,10 @@ Java
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/HelloConstraint_Assignment">HelloConstraint_Homework</a></li>
 
 ## Week 4. Activities and intents
-### Codelab 2.1: Activities and intents
-
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/TwoActivities_Classwork">TwoActivities Classwork</a></li>
 <li>  TwoActivities Homework
 
 ## Week 5. Implicit Intents
-### Codelab 2.3: Implicit Intents
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/blob/TwoActivities_Classwork/README.md">ImplicitIntents Classwork</a></li>
 <li> Implicit_IntentsReciver Classwork
 <li> ImplicitIntents Homework
@@ -44,15 +41,16 @@ Java
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Exercise_Floating_Button_Action">Droid Cafe Exercise</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/DroidCafeUserInput">Droid Cafe UserInput Exercise</a></li>
  
- ## Week 7. User Interaction
- ### 4.4: User navigation
- 
+ ## Week 7. User Interaction 
  <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/4.4UserNavigation"> 4.4: User navigation</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/TabLayout"> TabLayout</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/4.5RecyclerView"> 4.5: Recyclerview</a></li>
 
  ## Week 8. Cards and Colors
- ### 5.2:  Cards and Colors
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/5.2CardsAndColors"> Cards and Colors</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Scorekeeper"> Scorekepper</a></li>
  
+ 
+ 
+ ## Week 10. Notifications
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/new/Notifications?readme=1"> Notifications</a></li>
