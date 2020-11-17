@@ -54,3 +54,7 @@ Java
  
  ## Week 10. Notifications
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/new/Notifications?readme=1"> Notifications</a></li>
+
+## Miscelleneaous Exercises
+
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Tic_Tac">Tic Tac Game</a></li>
