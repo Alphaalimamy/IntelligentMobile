@@ -58,3 +58,4 @@ Java
 ## Miscelleneaous Exercises
 
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Tic_Tac">Tic Tac Game</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/MenuAndAlerts">Menu and Alerts</a></li>
