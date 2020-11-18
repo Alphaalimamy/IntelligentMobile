@@ -31,7 +31,7 @@ Java
 ## Week 5. Implicit Intents
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/blob/TwoActivities_Classwork/README.md">ImplicitIntents Classwork</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Intent_Receiver">Intent Receiver</a></li>
-
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Intent_Receiver">Intent Receiver</a></li>
   
   
 ## Week 6. User Interaction
@@ -59,3 +59,4 @@ Java
 
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Tic_Tac">Tic Tac Game</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/MenuAndAlerts">Menu and Alerts</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/layout_inflater">Layout Inflater</a></li>
