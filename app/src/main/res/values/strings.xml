@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inflater</string>
+
+    <string name="inflater">Layout Inflater</string>
+    <string name="message">Welcome</string>
+    <string name="login">Login</string>
+    <string name="show_info">Show Info</string>
+</resources>
