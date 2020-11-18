@@ -1,17 +1,18 @@
 package com.iloveandroid.menu;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
-import android.content.DialogInterface;
+import android.app.SearchManager;
+import android.content.Context;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.SearchView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -46,6 +47,22 @@ public class MainActivity extends AppCompatActivity {
 
         MenuInflater inflater = getMenuInflater();
         inflater.inflate(R.menu.new_menu, menu);
+
+        SearchView sv =(SearchView) menu.findItem(R.id.search).getActionView();
+        SearchManager sm =(SearchManager) getSystemService( Context.SEARCH_SERVICE );
+        sv.setSearchableInfo(sm.getSearchableInfo(getComponentName()));
+        sv.setOnQueryTextListener( new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String query) {
+                Toast.makeText(getApplicationContext(), query, Toast.LENGTH_LONG).show();
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String newText) {
+                return false;
+            }
+        } );
         return true;
     }
 
