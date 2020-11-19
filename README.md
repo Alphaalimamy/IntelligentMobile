@@ -60,3 +60,6 @@ Java
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Tic_Tac">Tic Tac Game</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/MenuAndAlerts">Menu and Alerts</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/layout_inflater">Layout Inflater</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Tip_Calculator">Tip Calculator</a></li>
+
+
