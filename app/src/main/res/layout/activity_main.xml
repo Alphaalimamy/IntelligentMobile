@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#18FFFF"
+    android:padding="20sp"
+    android:orientation="vertical"
+    >
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/make_it_rain"
+        android:textColor="@color/purple_500"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/txtYou"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/you_have"
+        android:textColor="@color/purple_500"
+        android:textSize="30sp"
+        android:textStyle="italic"
+       android:layout_gravity="center"
+        android:layout_marginTop="30sp"
+        />
+
+    <TextView
+        android:id="@+id/moneyText"
+        android:layout_width="276dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50sp"
+        android:text="@string/money"
+        android:textColor="@color/purple_500"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/btnMake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/make_it_rain"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold"
+        android:textSize="30sp"/>
+
+
+    <Button
+        android:id="@+id/btnShow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/show_tag"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold"
+        android:textSize="30sp"/>
+</LinearLayout>
