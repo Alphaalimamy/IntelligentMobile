@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#18FFFF"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher_background"
+        android:contentDescription="@string/quiz_image" />
+
+    <TextView
+        android:id="@+id/answer_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/question_declaration"
+        android:padding="8dp"
+        android:textSize="18sp"
+        android:textColor="@color/red_500"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_margin="10dp">
+
+        <Button
+            android:id="@+id/true_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/true_text"
+            tools:ignore="ButtonStyle"
+            android:textSize="20sp"/>
+        <Button
+            android:id="@+id/false_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/false_text"
+            android:layout_marginStart="10dp"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal">
+
+       <ImageButton
+           android:id="@+id/prev_button"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:contentDescription="@string/previous_button"
+           android:src="@drawable/baseline_keyboard_arrow_left_white_18dp"
+           android:textSize="20sp"
+           android:background="#E7D9EA"
+           android:layout_marginEnd="20sp"/>
+
+
+       <ImageButton
+           android:id="@+id/nex_button"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:contentDescription="@string/next_text"
+           android:src="@drawable/baseline_keyboard_arrow_right_white_18dp"
+           android:textSize="20sp"
+           android:background="#E7D9EA"/>
+
+
+   </LinearLayout>
+</LinearLayout>
