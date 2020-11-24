@@ -32,6 +32,8 @@ Java
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/blob/TwoActivities_Classwork/README.md">ImplicitIntents Classwork</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Intent_Receiver">Intent Receiver</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Intent_Receiver">Intent Receiver</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/QuizApp">Quiz App</a></li>
+
   
   
 ## Week 6. User Interaction
