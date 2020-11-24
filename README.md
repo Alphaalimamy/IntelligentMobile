@@ -32,7 +32,7 @@ Java
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/blob/TwoActivities_Classwork/README.md">ImplicitIntents Classwork</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Intent_Receiver">Intent Receiver</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Intent_Receiver">Intent Receiver</a></li>
-<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/QuizApp">Quiz App</a></li>
+
 
   
   
@@ -64,6 +64,6 @@ Java
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/layout_inflater">Layout Inflater</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Tip_Calculator">Tip Calculator</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/MakeItRain">Make It Rain</a></li>
-
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/QuizApp">Quiz App</a></li>
 
 
