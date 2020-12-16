@@ -59,6 +59,9 @@ Java
  ## Week 10. Notifications
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Notifications"> Notifications</a></li>
 
+ ## Week 10. shared Preferences
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/sharedPrefs"> shared Preferences</a></li>
+
 # FINAL PROJECT
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/FinalProject_Student_Diary_App">Student Diary App</a></li>
 
