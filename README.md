@@ -1,5 +1,7 @@
 # Intelligent Mobile Application
-Food wastage campaigh has become a global fight. In order to contribute to the fight to prevent food wastge, the project aims at creating a mobile app that helps people to share food online to help the disadvantage.
+Most schools in some parts of Africa still use the manual system of storing student information. Such an odd is not only prone to database loss, it wastes a lot of time and monetary resources. A lot of funds are spent yearly to procure books, pens and other materials. It also leads to fraud during the admission process of students into the different schools since there is no proper way of keeping and tracking student records. Therefore, it is necessary and timely to use technology to combat such occurrences into our school management systems.
+
+At the end of the semester, I would like to design a student database application that saves student into a database
 # Development Environment
 Andriod Studio
 # Programming Language
@@ -56,6 +58,9 @@ Java
  
  ## Week 10. Notifications
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/new/Notifications?readme=1"> Notifications</a></li>
+
+# FINAL PROJECT
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Tic_Tac">Tic Tac Game</a></li>
 
 ## Miscelleneaous Exercises
 
