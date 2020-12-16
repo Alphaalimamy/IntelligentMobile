@@ -60,7 +60,7 @@ Java
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/new/Notifications?readme=1"> Notifications</a></li>
 
 # FINAL PROJECT
-<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Tic_Tac">Tic Tac Game</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/FinalProject_Student_Diary_App">Student Diary App</a></li>
 
 ## Miscelleneaous Exercises
 
