@@ -57,7 +57,7 @@ Java
  
  
  ## Week 10. Notifications
-<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/new/Notifications?readme=1"> Notifications</a></li>
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Notifications"> Notifications</a></li>
 
 # FINAL PROJECT
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/FinalProject_Student_Diary_App">Student Diary App</a></li>
