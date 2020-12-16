@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Student Diary</string>
+    <string name="floating_action">This is a floating button</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="enter_address_hint">Enter address</string>
+    <string name="class_hint">Enter course name</string>
+    <string name="contact_hint">Enter your contact</string>
+    <string name="save_student_info">Save student info</string>
+    <string name="update_student">Update Student</string>
+    <string name="text_sure">Are you sure ? </string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="add_student">Add Student</string>
+    <string name="module_name">Intelligent Mobile Development</string>
+    <string name="id">2120196028</string>
+    <string name="my_name">ALPHA ALIMAMY KAMARA</string>
+    <string name="save_student">Save Student</string>
+    <string name="edit_stud">Edit Student</string>
+</resources>
