@@ -8,6 +8,8 @@ Andriod Studio
 Java
 
 # Classwork and Assignments
+# FINAL PROJECT
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/FinalProject_Student_Diary_App">Student Diary App</a></li>
 
 ## Week 1.Kick Off
 ### Classwork:
@@ -54,16 +56,14 @@ Java
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/5.2CardsAndColors"> Cards and Colors</a></li>
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Scorekeeper"> Scorekepper</a></li>
  
- 
+  ## Week 9: Who Wrote It
+<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/whowroteme"> Who Wrote It</a></li>
  
  ## Week 10. Notifications
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/Notifications"> Notifications</a></li>
 
- ## Week 10. shared Preferences
+ ## Week 11. shared Preferences
 <li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/sharedPrefs"> shared Preferences</a></li>
-
-# FINAL PROJECT
-<li><a href="https://github.com/Alphaalimamy/IntelligentMobile/tree/FinalProject_Student_Diary_App">Student Diary App</a></li>
 
 ## Miscelleneaous Exercises
 
